@@ -1,0 +1,9 @@
+com\valtech\model\Category.class
+com\valtech\dao\UserDao.class
+com\valtech\inventory\controller\UserControler.class
+com\valtech\model\Inventorys.class
+com\valtech\model\User.class
+com\valtech\dao\UserDao$1.class
+com\valtech\model\Product.class
+com\valtech\model\Warehouse.class
+com\valtech\model\InventoryManager.class
